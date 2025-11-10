@@ -1,5 +1,18 @@
 # Update Log
 
+## Update Date: 10/11/2025
+
+## Added Python basics
+
+**File:** All files except `text_to_sql.ipynb`
+
+### Changes
+
+- Updated files to run on langchain v1.0.x. Some major changes are mentioned below.
+- `D2S1_tools_in_langchain.ipynb`: Removed StructuredTools as it is retired in langchain v1.0.x
+- `D2S3agents_in_langchain.ipynb`: Changed hub to pull_prompt from LangSmith (Hub has been retired). Converted StructuredPrompt to String to make it compatible for the system_prompt. Also removed AgentExecutor and replaced create_react_agent with create_agent.
+
+---
 ## Update Date: 27/10/2025
 
 ## Added Python basics
@@ -84,4 +97,4 @@
 
 ## To Do
 
-- Update all the code to LangChain v1.0.* after stable release.
+- Replace all langchain-classic module functionalities
