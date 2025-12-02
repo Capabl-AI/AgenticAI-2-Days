@@ -1,5 +1,11 @@
 # Update Log
 
+## Update Date: 02/12/2025
+
+## Updated Hackathon coode and added a Problem Statement
+
+**File:** `Hackathon/ResumeAgentHackathon.ipynb`
+
 ## Update Date: 10/11/2025
 
 ## Added Python basics
