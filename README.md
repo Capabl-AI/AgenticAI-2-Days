@@ -1,5 +1,16 @@
 # Update Log
 
+## Update Date: 04/12/2025
+
+## Moved Deployment to ReAct Agent
+
+**File:** All files except `D2S3agents_in_langchain.ipynb`
+
+### Changes
+
+- Removed `text_to_sql.ipynb`
+- Added gradio deployment to `D2S3agents_in_langchain.ipynb`
+
 ## Update Date: 02/12/2025
 
 ## Updated Hackathon coode and added a Problem Statement
