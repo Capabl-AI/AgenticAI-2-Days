@@ -1,5 +1,16 @@
 # Update Log
 
+## Update Date: 13/01/2026
+
+## D1S7, D2D2 files changed
+
+**File:** `D1S7RAG.ipynb`, `D2S1tool_calling.ipynb`, `D2S2agents_in_langchain.ipynb`
+
+### Changes
+
+- Removed `D1S1.ipynb`, changed `D2S2` to new `D1S1`
+- Added scholarship info file to `D1S7RAG.ipynb`
+
 ## Update Date: 04/12/2025
 
 ## Moved Deployment to ReAct Agent
